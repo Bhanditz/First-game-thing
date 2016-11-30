@@ -2,7 +2,7 @@ import random
 from tkinter import*
 from tkinter import ttk
 
-class MyGUI:
+class MyGame:
     def __init__(self):
         # Create the main window widget.
         root = Tk()
@@ -37,7 +37,7 @@ class MyGUI:
         top.title('Dont die.')
         
         #Display incounter
-        message = Message(top, text='A troll stand befor you what do you do?')
+        message = Message(top, text='A troll stands before you what do you do?')
         message.pack()
 
         #Display options for user
@@ -82,4 +82,4 @@ class MyGUI:
         
 
 # Create an instance of the MyGUI class.
-my_gui = MyGUI()
+my_gui = MyGame()
