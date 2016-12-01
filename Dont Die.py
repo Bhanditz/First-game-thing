@@ -81,5 +81,5 @@ class MyGame:
         
         
 
-# Create an instance of the MyGUI class.
-my_gui = MyGame()
+
+my_game = MyGame()
