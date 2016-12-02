@@ -1,6 +1,6 @@
 import random
 import sys
-import time
+
 from tkinter import*
 from tkinter import ttk
 
