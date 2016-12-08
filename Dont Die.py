@@ -26,7 +26,6 @@ class MyGame:
                                         text='Start', \
                                         command=self.do_something)
         
-
         
         
         # Pack the Button.
