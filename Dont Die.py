@@ -17,7 +17,6 @@ class MyGame:
         message = Message(root,text='Dont die.')
         message.pack(side='top')
                
-
         # Create a Button widget. 
         # should appear on the face of the Button. The
         # do_something method should be executed when
