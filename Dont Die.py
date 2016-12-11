@@ -35,7 +35,7 @@ class MyGame:
         # Enter the Tkinter main loop.
         root.mainloop()
 
-    
+   
         
     def do_something(self):
         #Create a new window for the incounter
