@@ -172,5 +172,5 @@ class MyGame:
 
         button = Button(top,text='Quit',command=self.quit)
         button.pack()
-
+ 
 my_game = MyGame()
